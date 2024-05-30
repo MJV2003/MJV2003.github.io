@@ -1,15 +1,8 @@
-
 ---
+layout: post
 title: CHANGES
-date: 2024-05-30 15:50:01 +0800
-categories: [Animal, Insect]
-tags: [bee]     # TAG names should always be lowercase
+date: 2024-05-30 16:40:16
+description: leaning jerkyll
+tags: formatting links
+categories: sample-posts
 ---
----
-categories: [Animal, Insect]
-tags: [bee]
----
-<author_id>:
-  name: <Maria Jose Velasco>
-  twitter: <twitter_of_author>
-  url: <homepage_of_author>
