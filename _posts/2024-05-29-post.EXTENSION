@@ -1,11 +1,15 @@
 
-title: changes
-date: 2024-05-29 
+---
+title: CHANGES
+date: 2024-05-30 15:50:01 +0800
+categories: [Animal, Insect]
+tags: [bee]     # TAG names should always be lowercase
+---
+---
 categories: [Animal, Insect]
 tags: [bee]
+---
 <author_id>:
   name: <Maria Jose Velasco>
-  instagram: <majove2003>
+  twitter: <twitter_of_author>
   url: <homepage_of_author>
-description: Learning the basics of Jerkyll.
----
